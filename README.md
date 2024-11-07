@@ -30,3 +30,9 @@
 <h3>
   💫 Star History:
 </h3>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=NightRunners02/Toko-Emas-Mekar_Website&type=Date)](https://star-history.com/#NightRunners02/Toko-Emas-Mekar_Website&Date)
+
+</p>
+</div>
+</details>
