@@ -1,6 +1,4 @@
-- Preview Website: https://nightrunners02.github.io/Toko-Emas-Mekar_Website/
 
-- 
 ---
 <details> 
   <summary>
