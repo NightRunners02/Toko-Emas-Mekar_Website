@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 - Preview Website: https://nightrunners02.github.io/Toko-Emas-Mekar_Website/
-=======
-
->>>>>>> 876b9f82d1a46d89406d0693d145b287bdb79c66
 ---
 <details> 
   <summary>
