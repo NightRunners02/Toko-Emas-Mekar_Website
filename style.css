@@ -591,10 +591,6 @@ p {
     justify-content: center;
 }
 
-.brands-box:hover {
-    filter: brightness(0.3);
-    opacity: 0.9;
-}
 
 .brand-title .h5-title {
     text-transform: uppercase;
